@@ -1,8 +1,3 @@
-//Student Name: Gerald Mouton
-//LSUID: 894569516
-//Lab Section:Section 1
-//Assignment: Lab 1
-//Submission Time:6:10
 package filesproject;
 import java.io.File;
 import java.io.PrintWriter;
